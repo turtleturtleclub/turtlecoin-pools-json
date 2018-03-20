@@ -40,5 +40,11 @@
 	},
 	"turtlecoinpool.ml" : {
 		"url" : "https://turtlecoinpool.ml:8443/"
+	},
+	"sewer.ninja" : {
+		"url" : "http://sewer.ninja:8117/"
+	},
+	"Atpool.party" : {
+		"url" : "http://turtle-eu.atpool.party:8117/"	
 	}
 }
