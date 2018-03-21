@@ -23,9 +23,6 @@
 	"pool.turtleco.in" : {
 		"url" : "http://us.turtlepool.space/api/"
 	},
-	"sewer.ninja" : {
-		"url" : "http://sewer.ninja:8117/"
-	},
 	"slowandsteady.fun" : {
 		"url" : "http://slowandsteady.fun:8119/"
 	},
@@ -35,14 +32,8 @@
 	"trtl.ninja" : {
 		"url" : "https://trtl.ninja/api/"
 	},
-	"trtlpool.ninja" : {
-		"url" : "http://trtlpool.ninja/api/"
-	},
 	"turtle.mining.garden": {
 		"url": "https://turtle.mining.garden:8117/"
-	},
-	"turtlecoinpool.ml" : {
-		"url" : "https://turtlecoinpool.ml:8443/"
 	},
 	"us.turtlepool.space" : {
 		"url" : "http://us.turtlepool.space/api/"
