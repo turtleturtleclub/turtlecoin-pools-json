@@ -39,7 +39,7 @@
 		"url" : "http://us.turtlepool.space/api/"
 	},
 	"cryptoknight.cc/turtle" : {
-		"url" : "http://cryptoknight.cc/rpc/turtle/"
+		"url" : "https://cryptoknight.cc/rpc/turtle/"
 	},
 	"z-pool.com" : {
 		"url" : "https://z-pool.com/api/"
