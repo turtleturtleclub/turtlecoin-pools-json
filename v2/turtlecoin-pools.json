@@ -1,0 +1,106 @@
+{
+    "pools" : [
+        {
+            "name" : "AtPool.party",
+            "url" : "https://turtle.atpool.party/",
+            "api" : "http://turtle-eu.atpool.party:8117/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "AusPool.TurtleCo.in",
+            "url" : "https://auspool.turtleco.in/",
+            "api" : "http://auspool.turtleco.in/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "CoolMining.club",
+            "url" : "https://turtle.coolmining.club/",
+            "api" : "https://turtle.coolmining.club/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "CryptoKnight.cc",
+            "url" : "https://cryptoknight.cc/turtle/",
+            "api" : "https://cryptoknight.cc/rpc/turtle/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "CryptoPool.space",
+            "url" : "https://trtl.cryptopool.space/",
+            "api" : "https://trtl.cryptopool.space/api/",
+            "type" : "node.js"
+        },
+        {
+            "name" : "Flashpool.club",
+            "url" : "https://trtl.flashpool.club/",
+            "api" : "https://api.trtl.flashpool.club/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "Mine2Gether.com",
+            "url" : "https://trtl.mine2gether.com/",
+            "api" : "https://trtl.mine2gether.com/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "MineTRTL.us",
+            "url" : "http://ny.minetrtl.us/",
+            "api" : "http://ny.minetrtl.us:8117/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "Mining.garden",
+            "url" : "https://turtle.mining.garden/",
+            "api" : "https://turtle.mining.garden:8117/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "SlowAndSteady.fun",
+            "url" : "http://slowandsteady.fun/",
+            "api" : "http://slowandsteady.fun:8119/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "SpacePools.org",
+            "url" : "https://turtle.spacepools.org/",
+            "api" : "https://turtle.spacepools.org/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "TortugaAmor.cf",
+            "url" : "http://mine.tortugamor.cf/",
+            "api" : "http://tortugamor.cf:8117/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "TRTL.ninja",
+            "url" : "https://trtl.ninja/",
+            "api" : "https://trtl.ninja/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "TurtlePool.space EU",
+            "url" : "http://turtlepool.space/",
+            "api" : "http://eu.turtlepool.space/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "TurtlePool.space HK",
+            "url" : "http://turtlepool.space/",
+            "api" : "http://hk.turtlepool.space/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "TurtlePool.space US",
+            "url" : "http://turtlepool.space/",
+            "api" : "http://us.turtlepool.space/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "Zpool.com",
+            "url" : "https://z-pool.com/",
+            "api" : "https://z-pool.com/api/",
+            "type" : "forknote"
+        }
+    ]
+}
