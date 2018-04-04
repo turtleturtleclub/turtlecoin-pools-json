@@ -13,6 +13,24 @@
             "type" : "forknote"
         },
         {
+            "name" : "Bathmat's",
+            "url" : "https://turtle.bathmatminingpools.com/",
+            "api" : "https://api.turtle.bathmatminingpools.com/api/",
+            "type" : "node.js"
+        },
+        {
+            "name" : "Block Chain Era",
+            "url" : "https://trtl.blockchainera.net/",
+            "api" : "https://blocks.turtle.link/pool/trtl.blockchainera.net/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "ChallengeCoin.io",
+            "url" : "http://turtlepower.challengecoin.io/",
+            "api" : "https://blocks.turtle.link/pool/turtlepower.challengecoin.io/",
+            "type" : "forknote"
+        },
+        {
             "name" : "CoolMining.club",
             "url" : "https://turtle.coolmining.club/",
             "api" : "https://turtle.coolmining.club/",
@@ -29,6 +47,12 @@
             "url" : "https://trtl.cryptopool.space/",
             "api" : "https://trtl.cryptopool.space/api/",
             "type" : "node.js"
+        },
+        {
+            "name" : "ETNChina.io",
+            "url" : "http://etnchina.io/trtl/",
+            "api" : "https://blocks.turtle.link/pool/etnchina.io/",
+            "type" : "forknote"
         },
         {
             "name" : "Flashpool.club",
@@ -73,12 +97,6 @@
             "type" : "forknote"
         },
         {
-            "name" : "TortugaAmor.cf",
-            "url" : "http://mine.tortugamor.cf/",
-            "api" : "http://tortugamor.cf:8117/",
-            "type" : "forknote"
-        },
-        {
             "name" : "TRTL.ninja",
             "url" : "https://trtl.ninja/",
             "api" : "https://trtl.ninja/api/",
@@ -100,6 +118,12 @@
             "name" : "TurtlePool.space US",
             "url" : "http://turtlepool.space/",
             "api" : "http://us.turtlepool.space/api/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "UniPool",
+            "url" : "https://trtl.unipool.pro/",
+            "api" : "https://pool.turtlecoin.fr:8117/",
             "type" : "forknote"
         },
         {
