@@ -55,6 +55,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "semiPOOl.com",
+            "url" : "https://trtl.semipool.com/",
+            "api" : "https://trtl-api.semipool.com/",
+            "type" : "node.js"
+        },
+        {
             "name" : "SlowAndSteady.fun",
             "url" : "http://slowandsteady.fun/",
             "api" : "http://slowandsteady.fun:8119/",
