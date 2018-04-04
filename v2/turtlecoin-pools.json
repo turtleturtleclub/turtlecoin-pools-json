@@ -55,7 +55,7 @@
             "type" : "forknote"
         },
         {
-            "name" : "semiPOOl.com",
+            "name" : "semiPOOL.com",
             "url" : "https://trtl.semipool.com/",
             "api" : "https://trtl-api.semipool.com/",
             "type" : "node.js"
