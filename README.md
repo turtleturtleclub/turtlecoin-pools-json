@@ -10,4 +10,4 @@ This list can be consumed in your application so you'll always have an up-to-dat
 
 The goal of this repository is to have a central list of pools for TurtleCoin. If you run a pool, please submit a Pull Request against *v2/turtlecoin-pools.json* to get added.
 
-Please add your pool to the list in alphabetical order.
+Please add your pool to the list in alphabetical order, named using CamelCase.domain style for consistency.
