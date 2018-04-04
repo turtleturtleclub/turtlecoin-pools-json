@@ -13,7 +13,7 @@
             "type" : "forknote"
         },
         {
-            "name" : "CoolMining",
+            "name" : "CoolMining.club",
             "url" : "https://turtle.coolmining.club/",
             "api" : "https://turtle.coolmining.club/",
             "type" : "forknote"
@@ -31,13 +31,13 @@
             "type" : "node.js"
         },
         {
-            "name" : "Flashpool",
+            "name" : "Flashpool.club",
             "url" : "https://trtl.flashpool.club/",
             "api" : "https://api.trtl.flashpool.club/",
             "type" : "forknote"
         },
         {
-            "name" : "Mine2Gether",
+            "name" : "Mine2Gether.com",
             "url" : "https://trtl.mine2gether.com/",
             "api" : "https://trtl.mine2gether.com/api/",
             "type" : "forknote"
@@ -67,7 +67,7 @@
             "type" : "forknote"
         },
         {
-            "name" : "Tortuga Amor",
+            "name" : "TortugaAmor.cf",
             "url" : "http://mine.tortugamor.cf/",
             "api" : "http://tortugamor.cf:8117/",
             "type" : "forknote"
@@ -97,7 +97,7 @@
             "type" : "forknote"
         },
         {
-            "name" : "Zpool",
+            "name" : "Zpool.com",
             "url" : "https://z-pool.com/",
             "api" : "https://z-pool.com/api/",
             "type" : "forknote"
