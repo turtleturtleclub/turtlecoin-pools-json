@@ -116,19 +116,19 @@
         },        
         {
             "name" : "TurtlePool.space EU",
-            "url" : "http://turtlepool.space/",
+            "url" : "http://eu.turtlepool.space/",
             "api" : "http://eu.turtlepool.space/api/",
             "type" : "forknote"
         },
         {
             "name" : "TurtlePool.space HK",
-            "url" : "http://turtlepool.space/",
+            "url" : "http://hk.turtlepool.space/",
             "api" : "http://hk.turtlepool.space/api/",
             "type" : "forknote"
         },
         {
             "name" : "TurtlePool.space US",
-            "url" : "http://turtlepool.space/",
+            "url" : "http://us.turtlepool.space/",
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote"
         },
