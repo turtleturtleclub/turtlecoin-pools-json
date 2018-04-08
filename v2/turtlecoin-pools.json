@@ -9,7 +9,7 @@
         {
             "name" : "AusPool.TurtleCo.in",
             "url" : "https://auspool.turtleco.in/",
-            "api" : "http://auspool.turtleco.in/api/",
+            "api" : "https://auspool.turtleco.in/api/",
             "type" : "forknote"
         },
         {
