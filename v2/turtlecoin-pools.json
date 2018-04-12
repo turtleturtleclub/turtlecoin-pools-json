@@ -43,6 +43,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "Cryptonight.nl",
+            "url" : "https://trtl.cryptonight.nl",
+            "api" : "https://trtlpool.cryptonight.nl",
+            "type" : "forknote"
+        },
+        {
             "name" : "CryptoPool.space",
             "url" : "https://trtl.cryptopool.space/",
             "api" : "https://trtl.cryptopool.space/api/",
