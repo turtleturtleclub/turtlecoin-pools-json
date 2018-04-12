@@ -37,13 +37,19 @@
             "type" : "forknote"
         },
         {
+            "name" : "CryptoAsiaPool.com",
+            "url" : "http://trtl.cryptoasiapool.com/",
+            "api" : "http://trtl.cryptoasiapool.com:8117/",
+            "type" : "forknote"
+        },
+        {
             "name" : "CryptoKnight.cc",
             "url" : "https://cryptoknight.cc/turtle/",
             "api" : "https://cryptoknight.cc/rpc/turtle/",
             "type" : "forknote"
         },
         {
-            "name" : "Cryptonight.nl",
+            "name" : "CryptoNight.nl",
             "url" : "https://trtl.cryptonight.nl/",
             "api" : "https://trtlpool.cryptonight.nl/",
             "type" : "forknote"
