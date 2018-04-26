@@ -43,6 +43,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "CryptoHispano.net",
+            "url" : "http://trtl.cryptohispano.net/",
+            "api" : "http://trtl.cryptohispano.net:8117/",
+            "type" : "forknote"
+        },
+        {
             "name" : "CryptoKnight.cc",
             "url" : "https://cryptoknight.cc/turtle/",
             "api" : "https://cryptoknight.cc/rpc/turtle/",
