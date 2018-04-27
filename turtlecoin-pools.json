@@ -26,9 +26,9 @@
     "pool.turtleco.in" : {
         "url" : "http://us.turtlepool.space/api/"
     },
-    "slowandsteady.fun" : {
-        "url" : "http://slowandsteady.fun:8119/"
-    },
+	"slowandsteady.fun" : {
+		"url" : "http://slowandsteady.fun:8119/"
+	},
 	"trtl.flashpool.club" : {
 		"url" : "https://api.trtl.flashpool.club/"
 	},
