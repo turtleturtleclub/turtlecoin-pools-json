@@ -73,6 +73,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "Mine.nu",
+            "url" : "http://turtle.mine.nu/",
+            "api" : "http://turtle.mine.nu:8117/",
+            "type" : "forknote"
+        },
+        {
             "name" : "Mine2Gether.com",
             "url" : "https://trtl.mine2gether.com/",
             "api" : "https://trtl.mine2gether.com/api/",
