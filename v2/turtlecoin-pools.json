@@ -115,12 +115,6 @@
             "type" : "forknote"	
         },
         {
-            "name" : "SpacePools.org",
-            "url" : "https://turtle.spacepools.org/",
-            "api" : "https://turtle.spacepools.org/api/",
-            "type" : "forknote"
-        },
-        {
             "name" : "TRTL.ninja",
             "url" : "https://trtl.ninja/",
             "api" : "https://trtl.ninja/api/",
