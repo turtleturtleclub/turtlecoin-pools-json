@@ -149,6 +149,12 @@
             "url" : "https://z-pool.com/",
             "api" : "https://z-pool.com/api/",
             "type" : "forknote"
+        },
+        {
+            "name" : "Funky Penguin NZ",
+            "url" : "https://trtl.heigh-ho.funkypenguin.co.nz",
+            "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz",
+            "type" : "forknote"
         }
     ]
 }
