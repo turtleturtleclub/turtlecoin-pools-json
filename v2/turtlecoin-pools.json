@@ -73,9 +73,15 @@
             "type" : "forknote"
         },
         {
-            "name" : "Flashpool.club",
+            "name" : "FlashPool.club",
             "url" : "https://trtl.flashpool.club/",
             "api" : "https://api.trtl.flashpool.club/",
+            "type" : "forknote"
+        },
+        {
+            "name" : "FunkyPenguin.co.nz",
+            "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
+            "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
             "type" : "forknote"
         },
         {
