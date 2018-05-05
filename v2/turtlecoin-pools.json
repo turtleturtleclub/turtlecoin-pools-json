@@ -85,6 +85,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "GNTL TRTL",
+            "url" : "https://trtl.pool.gntl.co.uk/",
+            "api" : "https://trtl.pool.gntl.co.uk/api/",
+            "type" : "node.js"
+        },
+        {
             "name" : "Mine.nu",
             "url" : "http://turtle.mine.nu/",
             "api" : "http://turtle.mine.nu:8117/",
