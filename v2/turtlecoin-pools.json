@@ -60,12 +60,12 @@
             "api" : "https://trtlpool.cryptonight.nl/",
             "type" : "forknote"
         },
-		{
-			"name" : "CryptoNote.social",
-			"url" : "https://cryptonote.social/trtl",
-			"api" : "https://cryptonote.social/pool/statistics/trtl",
-			"type" : "other"
-		}
+        {
+            "name" : "CryptoNote.social",
+            "url" : "https://cryptonote.social/trtl",
+            "api" : "https://cryptonote.social/pool/statistics/trtl",
+            "type" : "other"
+        },
         {
             "name" : "CryptoPool.space",
             "url" : "https://trtl.cryptopool.space/",
