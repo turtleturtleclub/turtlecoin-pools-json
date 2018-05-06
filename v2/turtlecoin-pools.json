@@ -161,6 +161,12 @@
             "url" : "https://z-pool.com/",
             "api" : "https://z-pool.com/api/",
             "type" : "forknote"
-        }
+        },
+		{
+			"name" : "cryptonote.social",
+			"url" : "https://cryptonote.social/trtl",
+			"api" : "https://cryptonote.social/pool/statistics/trtl",
+			"type" : "other"
+		}
     ]
 }
