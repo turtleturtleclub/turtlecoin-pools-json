@@ -62,8 +62,7 @@
         },
         {
             "name" : "CryptoNote.social",
-            "url" : "https://cryptonote.social/trtl",
-            "api" : "https://cryptonote.social/pool/statistics/trtl",
+            "url" : "https://cryptonote.social/trtl/",
             "type" : "other"
         },
         {
