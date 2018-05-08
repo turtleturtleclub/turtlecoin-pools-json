@@ -61,6 +61,11 @@
             "type" : "forknote"
         },
         {
+            "name" : "CryptoNote.social",
+            "url" : "https://cryptonote.social/trtl/",
+            "type" : "other"
+        },
+        {
             "name" : "CryptoPool.space",
             "url" : "https://trtl.cryptopool.space/",
             "api" : "https://trtl.cryptopool.space/api/",
