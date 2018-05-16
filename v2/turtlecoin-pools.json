@@ -7,33 +7,15 @@
             "type" : "forknote"
         },
         {
-            "name" : "AusPool.TurtleCo.in",
-            "url" : "https://auspool.turtleco.in/",
-            "api" : "https://auspool.turtleco.in/api/",
-            "type" : "forknote"
-        },
-        {
             "name" : "Bathmat's",
             "url" : "https://turtle.bathmatminingpools.com/",
             "api" : "https://api.turtle.bathmatminingpools.com/api/",
             "type" : "node.js"
         },
         {
-            "name" : "Block Chain Era",
-            "url" : "https://trtl.blockchainera.net/",
-            "api" : "https://blocks.turtle.link/pool/trtl.blockchainera.net/",
-            "type" : "forknote"
-        },
-        {
             "name" : "ChallengeCoin.io",
             "url" : "http://turtlepower.challengecoin.io/",
             "api" : "https://blocks.turtle.link/pool/turtlepower.challengecoin.io/",
-            "type" : "forknote"
-        },
-        {
-            "name" : "CoolMining.club",
-            "url" : "https://turtle.coolmining.club/",
-            "api" : "https://turtle.coolmining.club/",
             "type" : "forknote"
         },
         {
@@ -55,12 +37,6 @@
             "type" : "forknote"
         },
         {
-            "name" : "CryptoNight.nl",
-            "url" : "https://trtl.cryptonight.nl/",
-            "api" : "https://trtlpool.cryptonight.nl/",
-            "type" : "forknote"
-        },
-        {
             "name" : "CryptoNote.social",
             "url" : "https://cryptonote.social/trtl/",
             "type" : "other"
@@ -70,18 +46,6 @@
             "url" : "https://trtl.cryptopool.space/",
             "api" : "https://trtl.cryptopool.space/api/",
             "type" : "node.js"
-        },
-        {
-            "name" : "ETNChina.io",
-            "url" : "http://etnchina.io/trtl/",
-            "api" : "https://blocks.turtle.link/pool/etnchina.io/",
-            "type" : "forknote"
-        },
-        {
-            "name" : "FlashPool.club",
-            "url" : "https://trtl.flashpool.club/",
-            "api" : "https://api.trtl.flashpool.club/",
-            "type" : "forknote"
         },
         {
             "name" : "FunkyPenguin.co.nz",
@@ -124,12 +88,6 @@
             "url" : "https://trtl.semipool.com/",
             "api" : "https://trtl-api.semipool.com/",
             "type" : "node.js"
-        },
-        {	
-            "name" : "SlowAndSteady.fun",	
-            "url" : "http://slowandsteady.fun/",	
-            "api" : "http://slowandsteady.fun:8119/",	
-            "type" : "forknote"	
         },
         {
             "name" : "TRTL.ninja",
