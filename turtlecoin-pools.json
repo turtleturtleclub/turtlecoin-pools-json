@@ -2,6 +2,9 @@
     "atpool.party" : {
         "url" : "http://turtle-eu.atpool.party:8117/"
     },
+    "trtl.cryptohispano.net" : {
+        "url" : "https://trtl.cryptohispano.net/api/"
+    },   
     "cryptoknight.cc" : {
         "url" : "http://78.46.85.142:6229/"
     },
