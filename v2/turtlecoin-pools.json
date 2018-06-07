@@ -1,6 +1,12 @@
 {
     "pools" : [
         {
+            "name" : "TurtleMiners.club",
+            "url" : "http://turtleminers.club/",
+            "api" : "http://turtleminers.club:8117/",
+            "type" : "forknote"
+        },
+        {
             "name" : "AtPool.party",
             "url" : "https://turtle.atpool.party/",
             "api" : "http://turtle-eu.atpool.party:8117/",
