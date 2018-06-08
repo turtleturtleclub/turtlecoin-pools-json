@@ -94,7 +94,13 @@
             "url" : "https://trtl.ninja/",
             "api" : "https://trtl.ninja/api/",
             "type" : "forknote"
-        },       
+        }, 
+        {
+            "name" : "TurtleMiners.club",
+            "url" : "http://turtleminers.club/",
+            "api" : "http://turtleminers.club:8117/",
+            "type" : "forknote"
+        },      
         {
             "name" : "TurtlePool.space EU",
             "url" : "http://eu.turtlepool.space/",
