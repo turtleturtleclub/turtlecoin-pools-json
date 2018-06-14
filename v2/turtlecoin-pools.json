@@ -60,6 +60,12 @@
             "type" : "node.js"
         },
         {
+            "name" : "ImHard4.men",
+            "url" : "http://turtle.imhard4.men/",
+            "api" : "http://turtle.imhard4.men:8117/",
+            "type" : "forknote"
+        },
+        {
             "name" : "Mine.nu",
             "url" : "http://turtle.mine.nu/",
             "api" : "http://turtle.mine.nu:8117/",
