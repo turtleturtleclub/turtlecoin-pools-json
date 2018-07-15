@@ -4,12 +4,6 @@
     },
     "trtl.cryptohispano.net" : {
         "url" : "https://trtl.cryptohispano.net/api/"
-    },   
-    "cryptoknight.cc" : {
-        "url" : "http://78.46.85.142:6229/"
-    },
-    "cryptoknight.cc/turtle" : {
-        "url" : "https://cryptoknight.cc/rpc/turtle/"
     },
     "eu.turtlepool.space" : {
         "url" : "http://eu.turtlepool.space/api/"
