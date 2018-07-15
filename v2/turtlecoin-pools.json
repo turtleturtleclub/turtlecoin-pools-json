@@ -159,6 +159,13 @@
             "api" : "https://z-pool.com/api/",
             "type" : "forknote",
             "miningAddress" : "z-pool.com"
+        },
+        {
+            "name" : "PSR CRYPTO Turtle Pool",
+            "url" : "http://turtle.psrcrypto.com/",
+            "api": "http://turtle.psrcrypto.com:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.psrcrypto.com"
         }
     ]
 }
