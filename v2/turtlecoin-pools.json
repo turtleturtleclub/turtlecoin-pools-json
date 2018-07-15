@@ -105,6 +105,13 @@
             "miningAddress" : "turtle.mining.garden"
         },
         {
+            "name" : "PSRcrypto.com",
+            "url" : "http://turtle.psrcrypto.com/",
+            "api": "http://turtle.psrcrypto.com:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.psrcrypto.com"
+        },
+        {
             "name" : "semiPOOL.com",
             "url" : "https://trtl.semipool.com/",
             "api" : "https://trtl-api.semipool.com/",
@@ -159,13 +166,6 @@
             "api" : "https://z-pool.com/api/",
             "type" : "forknote",
             "miningAddress" : "z-pool.com"
-        },
-        {
-            "name" : "PSR CRYPTO Turtle Pool",
-            "url" : "http://turtle.psrcrypto.com/",
-            "api": "http://turtle.psrcrypto.com:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.psrcrypto.com"
         }
     ]
 }
