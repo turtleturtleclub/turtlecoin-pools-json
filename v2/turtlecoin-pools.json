@@ -36,13 +36,6 @@
             "miningAddress" : "trtl.cryptohispano.net"
         },
         {
-            "name" : "CryptoKnight.cc",
-            "url" : "https://cryptoknight.cc/turtle/",
-            "api" : "https://cryptoknight.cc/rpc/turtle/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.ingest.cryptoknight.cc"
-        },
-        {
             "name" : "CryptoNote.social",
             "url" : "https://cryptonote.social/trtl/",
             "type" : "other",
@@ -152,13 +145,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },
-        {
-            "name" : "UniPool",
-            "url" : "https://trtl.unipool.pro/",
-            "api" : "https://pool.turtlecoin.fr:8117/",
-            "type" : "forknote",
-            "miningAddress" : "pool.trtl.unipool.pro"
         },
         {
             "name" : "Zpool.com",
