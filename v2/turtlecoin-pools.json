@@ -15,13 +15,6 @@
             "miningAddress" : "turtle.minercartel.com"
         },
         {
-            "name" : "ChallengeCoin.io",
-            "url" : "http://turtlepower.challengecoin.io/",
-            "api" : "https://blocks.turtle.link/pool/turtlepower.challengecoin.io/",
-            "type" : "forknote",
-            "miningAddress" : "turtlepower.challengecoin.io"
-        },
-        {
             "name" : "CryptoAsiaPool.com",
             "url" : "http://trtl.cryptoasiapool.com/",
             "api" : "http://trtl.cryptoasiapool.com:8117/",
