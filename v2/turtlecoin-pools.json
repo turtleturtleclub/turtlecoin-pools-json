@@ -112,6 +112,13 @@
             "miningAddress" : "pool.trtl.ninja"
         }, 
         {
+            "name" : "Turtle.Casa",
+            "url" : "hhttps://turtle.casa/",
+            "api" : "https://turtle.casa:8119/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.casa"
+        },
+        {
             "name" : "TurtleMiners.club",
             "url" : "http://turtleminers.club/",
             "api" : "http://turtleminers.club:8117/",
@@ -138,13 +145,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },
-        {
-            "name" : "Turtle.Casa",
-            "url" : "hhttps://turtle.casa/",
-            "api" : "https://turtle.casa:8119",
-            "type" : "forknote",
-            "miningAddress" : "turtle.casa"
         },
         {
             "name" : "Zpool.com",
