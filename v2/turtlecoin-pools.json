@@ -112,6 +112,13 @@
             "miningAddress" : "pool.trtl.ninja"
         }, 
         {
+            "name" : "Turtle.Casa",
+            "url" : "https://turtle.casa/",
+            "api" : "https://turtle.casa:8119/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.casa"
+        },
+        {
             "name" : "TurtleMiners.club",
             "url" : "http://turtleminers.club/",
             "api" : "http://turtleminers.club:8117/",
