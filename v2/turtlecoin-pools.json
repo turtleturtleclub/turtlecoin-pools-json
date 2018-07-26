@@ -152,6 +152,13 @@
             "api" : "https://z-pool.com/api/",
             "type" : "forknote",
             "miningAddress" : "z-pool.com"
+        },
+        {
+            "name" : "trtlcoinpool.tk",
+            "url" : "http://trtlcoinpool.tk/",
+            "api" : "http://trtlcoinpool.tk:8117/",
+            "type" : "forknote",
+            "miningAddress" : "trtlcoinpool.tk"
         }
     ]
 }
