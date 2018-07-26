@@ -110,6 +110,13 @@
             "api" : "https://trtl.ninja/api/",
             "type" : "forknote",
             "miningAddress" : "pool.trtl.ninja"
+        },
+        {
+            "name" : "TRTLCoinPool.tk",
+            "url" : "http://trtlcoinpool.tk/",
+            "api" : "http://trtlcoinpool.tk:2082/",
+            "type" : "forknote",
+            "miningAddress" : "trtlcoinpool.tk"
         }, 
         {
             "name" : "Turtle.Casa",
