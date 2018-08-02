@@ -119,11 +119,18 @@
             "miningAddress" : "trtlcoinpool.tk"
         }, 
         {
-            "name" : "Turtle.Casa",
+            "name" : "Turtle.casa",
             "url" : "https://turtle.casa/",
             "api" : "https://turtle.casa:8119/",
             "type" : "forknote",
             "miningAddress" : "turtle.casa"
+        },
+        {
+            "name" : "Turtle.minerpools.online",
+            "url" : "http://turtle.minerpools.online/",
+            "api" : "http://turtle.minerpools.online:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.minerpools.online"
         },
         {
             "name" : "TurtleMiners.club",
