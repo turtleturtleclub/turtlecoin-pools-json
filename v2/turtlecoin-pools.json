@@ -159,6 +159,13 @@
             "api" : "https://z-pool.com/api/",
             "type" : "forknote",
             "miningAddress" : "z-pool.com"
+        },
+        {
+            "name" : "Turtlecoin mining pool",
+            "url" : "http://turtle.minerpools.online/",
+            "api" : "http://turtle.minerpools.online:8117",
+            "type" : "forknote",
+            "miningAddress" : "turtle.minerpools.online"
         }
     ]
 }
