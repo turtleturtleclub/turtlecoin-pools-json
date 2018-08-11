@@ -119,6 +119,13 @@
             "miningAddress" : "trtlcoinpool.tk"
         }, 
         {
+            "name" : "turtle.smartcoinpool.com",
+            "url" : "https://turtle.smartcoinpool.com/",
+            "api" : "https://turtle.smartcoinpool.com:3009/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.smartcoinpool.com"
+        },
+        {
             "name" : "Turtle.casa",
             "url" : "https://turtle.casa/",
             "api" : "https://turtle.casa:8119/",
