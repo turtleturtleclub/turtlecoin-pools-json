@@ -159,13 +159,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },
-        {
-            "name" : "Zpool.com",
-            "url" : "https://z-pool.com/",
-            "api" : "https://z-pool.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "z-pool.com"
         }
     ]
 }
