@@ -117,7 +117,7 @@
             "api" : "http://trtlcoinpool.tk:2082/",
             "type" : "forknote",
             "miningAddress" : "trtlcoinpool.tk"
-        }, 
+        },
         {
             "name" : "Turtle.casa",
             "url" : "https://turtle.casa/",
@@ -131,6 +131,13 @@
             "api" : "http://turtle.minerpools.online:8117/",
             "type" : "forknote",
             "miningAddress" : "turtle.minerpools.online"
+        },
+        {
+            "name" : "Turtle.smartcoinpool.com",
+            "url" : "https://turtle.smartcoinpool.com/",
+            "api" : "https://turtle.smartcoinpool.com:3109/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.smartcoinpool.com"
         },
         {
             "name" : "TurtleMiners.club",
