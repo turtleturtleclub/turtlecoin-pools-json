@@ -11,7 +11,7 @@
             "name" : "bluerockpools.net",
             "url" : "https://trtl.bluerockpools.net/",
             "api" : "https://trtl.bluerockpools.net:8111/",
-            "type" : "node.js",
+            "type" : "forknote",
             "miningAddress" : "trtl.bluerockpools.net"
         },
         {
@@ -157,7 +157,7 @@
             "name" : "TurtleMiners.club",
             "url" : "http://turtleminers.club/",
             "api" : "http://turtleminers.club:8117/",
-            "type" : "node.js",
+            "type" : "forknote",
             "miningAddress" : "turtleminers.club"
         },      
         {
