@@ -173,6 +173,13 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        }
+        },
+        {
+            "name" : "CODPool - Turtle",
+            "url" : "https://trtl.codpool.com",
+            "api" : "https://pool1.codpool.com:8119",
+            "type" : "forknote",
+            "miningAddress" : "trtl.pool.codpool.com"
+        }        
     ]
 }
