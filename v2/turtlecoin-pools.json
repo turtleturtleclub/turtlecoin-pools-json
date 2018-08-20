@@ -71,10 +71,10 @@
         },
         {
             "name" : "ImHard4.men",
-            "url" : "http://turtle.imhard4.men/",
-            "api" : "http://turtle.imhard4.men:8117/",
+            "url" : "http://turtlehomosecs.imhard4.men/",
+            "api" : "http://turtlehomosecs.imhard4.men:8117/",
             "type" : "forknote",
-            "miningAddress" : "turtle.imhard4.men"
+            "miningAddress" : "turtlehomosecs.imhard4.men"
         },
         {
             "name" : "Mine.nu",
