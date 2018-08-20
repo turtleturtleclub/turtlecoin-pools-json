@@ -8,18 +8,18 @@
             "miningAddress" : "geo.atpool.party"
         },
         {
-            "name" : "bluerockpools.net",
-            "url" : "https://trtl.bluerockpools.net/",
-            "api" : "https://trtl.bluerockpools.net:8111/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.bluerockpools.net"
-        },
-        {
             "name" : "Bathmat's",
             "url" : "https://turtle.bathmatminingpools.com/",
             "api" : "https://api.turtle.bathmatminingpools.com/api/",
             "type" : "node.js",
             "miningAddress" : "turtle.minercartel.com"
+        },
+        {
+            "name" : "BlueRockPools.net",
+            "url" : "https://trtl.bluerockpools.net/",
+            "api" : "https://trtl.bluerockpools.net:8111/",
+            "type" : "forknote-alt",
+            "miningAddress" : "trtl.bluerockpools.net"
         },
         {
             "name" : "CODPool",
