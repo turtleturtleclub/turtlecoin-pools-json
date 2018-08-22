@@ -135,16 +135,9 @@
         {
             "name" : "Turtle.casa",
             "url" : "https://turtle.casa/",
-            "api" : "https://turtle.casa:8119/",
+            "api" : "https://api.turtle.casa/",
             "type" : "forknote",
             "miningAddress" : "turtle.casa"
-        },
-        {
-            "name" : "Turtle.minerpools.online",
-            "url" : "http://turtle.minerpools.online/",
-            "api" : "http://turtle.minerpools.online:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.minerpools.online"
         },
         {
             "name" : "Turtle.smartcoinpool.com",
