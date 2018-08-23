@@ -173,6 +173,13 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        }        
+        }    
+        {
+            "name" : "Crazybird's Pool",
+            "url" : "http://www.crazybird.fr/",
+            "api" : "http://www.crazybird.fr/api/",
+            "type" : "forknote",
+            "miningAddress" : "crazybird.fr"
+        }    
     ]
 }
