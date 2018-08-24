@@ -31,7 +31,7 @@
         {
             "name" : "Crazybird's Pool",
             "url" : "http://www.crazybird.fr/",
-            "api" : "http://vps573884.ovh.net:8117/",
+            "api" : "http://www.crazybird.fr:8117/",
             "type" : "forknote",
             "miningAddress" : "crazybird.fr"
         },
