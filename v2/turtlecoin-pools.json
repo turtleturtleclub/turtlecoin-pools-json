@@ -126,7 +126,7 @@
             "miningAddress" : "pool.trtl.ninja"
         },
         {
-            "name" : "trtl.waale.me",
+            "name" : "TRTL.waale.me",
             "url" : "http://trtl.waale.me/",
             "api" : "http://trtl.waale.me:8117/",
             "type" : "forknote",
