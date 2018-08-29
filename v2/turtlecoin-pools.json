@@ -126,6 +126,13 @@
             "miningAddress" : "pool.trtl.ninja"
         },
         {
+            "name" : "TRTL.waale.me",
+            "url" : "http://trtl.waale.me/",
+            "api" : "http://trtl.waale.me:8117/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.waale.me"
+        },
+        {
             "name" : "TRTLCoinPool.tk",
             "url" : "http://trtlcoinpool.tk/",
             "api" : "http://trtlcoinpool.tk:2082/",
