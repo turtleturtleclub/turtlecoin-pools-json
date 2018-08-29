@@ -29,6 +29,13 @@
             "miningAddress" : "trtl.pool.codpool.com"
         },
         {
+            "name" : "Crazybird's Pool",
+            "url" : "http://www.crazybird.fr/",
+            "api" : "http://www.crazybird.fr:8117/",
+            "type" : "forknote",
+            "miningAddress" : "crazybird.fr"
+        },
+        {
             "name" : "CryptoAsiaPool.com",
             "url" : "http://trtl.cryptoasiapool.com/",
             "api" : "http://trtl.cryptoasiapool.com:8117/",
@@ -180,6 +187,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        }        
+        }    
     ]
 }
