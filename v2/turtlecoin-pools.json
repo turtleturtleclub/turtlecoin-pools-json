@@ -187,6 +187,13 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        }    
+        },
+               {
+            "name" : "fr.trtl.no EU",
+            "url" : "http://fr.trtl.no/",
+            "api" : "http://fr.trtl.no:8117/",
+            "type" : "forknote",
+            "miningAddress" : "fr.trtl.no"
+        }
     ]
 }
