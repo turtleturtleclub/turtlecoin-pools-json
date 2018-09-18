@@ -63,6 +63,13 @@
             "miningAddress" : "pool.trtl.cryptopool.space"
         },
         {
+            "name" : "fr.trtl.no EU",
+            "url" : "http://fr.trtl.no/",
+            "api" : "http://fr.trtl.no:8117/",
+            "type" : "forknote",
+            "miningAddress" : "fr.trtl.no"
+        },
+        {
             "name" : "FunkyPenguin.co.nz",
             "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
             "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
@@ -187,13 +194,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },
-               {
-            "name" : "fr.trtl.no EU",
-            "url" : "http://fr.trtl.no/",
-            "api" : "http://fr.trtl.no:8117/",
-            "type" : "forknote",
-            "miningAddress" : "fr.trtl.no"
         }
     ]
 }
