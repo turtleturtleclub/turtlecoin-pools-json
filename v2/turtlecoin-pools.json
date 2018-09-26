@@ -117,7 +117,14 @@
             "api" : "http://trtlcoinpool.tk:2082/",
             "type" : "forknote",
             "miningAddress" : "trtlcoinpool.tk"
-        }, 
+        },
+        {
+            "name" : "TurtlePool.ml",
+            "url" : "http://turtlepool.ml/",
+            "api" : "http://turtlepool.ml:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtlepool.ml"
+        },
         {
             "name" : "Turtle.Casa",
             "url" : "https://turtle.casa/",
