@@ -15,6 +15,27 @@
             "miningAddress" : "turtle.minercartel.com"
         },
         {
+            "name" : "BlueRockPools.net",
+            "url" : "https://trtl.bluerockpools.net/",
+            "api" : "https://trtl.bluerockpools.net:8111/",
+            "type" : "forknote-alt",
+            "miningAddress" : "trtl.bluerockpools.net"
+        },
+        {
+            "name" : "CODPool",
+            "url" : "https://trtl.codpool.com/",
+            "api" : "https://pool1.codpool.com:8119/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.pool.codpool.com"
+        },
+        {
+            "name" : "Crazybird's Pool",
+            "url" : "http://www.crazybird.fr/",
+            "api" : "http://www.crazybird.fr:8117/",
+            "type" : "forknote",
+            "miningAddress" : "crazybird.fr"
+        },
+        {
             "name" : "CryptoAsiaPool.com",
             "url" : "http://trtl.cryptoasiapool.com/",
             "api" : "http://trtl.cryptoasiapool.com:8117/",
@@ -42,6 +63,13 @@
             "miningAddress" : "pool.trtl.cryptopool.space"
         },
         {
+            "name" : "fr.trtl.no EU",
+            "url" : "http://fr.trtl.no/",
+            "api" : "http://fr.trtl.no:8117/",
+            "type" : "forknote",
+            "miningAddress" : "fr.trtl.no"
+        },
+        {
             "name" : "FunkyPenguin.co.nz",
             "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
             "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
@@ -57,10 +85,10 @@
         },
         {
             "name" : "ImHard4.men",
-            "url" : "http://turtle.imhard4.men/",
-            "api" : "http://turtle.imhard4.men:8117/",
+            "url" : "http://turtlehomosecs.imhard4.men/",
+            "api" : "http://turtlehomosecs.imhard4.men:8117/",
             "type" : "forknote",
-            "miningAddress" : "turtle.imhard4.men"
+            "miningAddress" : "turtlehomosecs.imhard4.men"
         },
         {
             "name" : "Mine.nu",
@@ -112,11 +140,39 @@
             "miningAddress" : "pool.trtl.ninja"
         },
         {
+            "name" : "TRTL.waale.me",
+            "url" : "http://trtl.waale.me/",
+            "api" : "http://trtl.waale.me:8117/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.waale.me"
+        },
+        {
             "name" : "TRTLCoinPool.tk",
             "url" : "http://trtlcoinpool.tk/",
             "api" : "http://trtlcoinpool.tk:2082/",
             "type" : "forknote",
             "miningAddress" : "trtlcoinpool.tk"
+        },
+        {
+            "name" : "Turtle.casa",
+            "url" : "https://turtle.casa/",
+            "api" : "https://api.turtle.casa/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.casa"
+        },
+        {
+            "name" : "Turtle.smartcoinpool.com",
+            "url" : "https://turtle.smartcoinpool.com/",
+            "api" : "https://turtle.smartcoinpool.com:3109/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.smartcoinpool.com"
+        },
+        {
+            "name" : "TurtleMiners.club",
+            "url" : "http://turtleminers.club/",
+            "api" : "http://turtleminers.club:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtleminers.club"
         },
         {
             "name" : "TurtlePool.ml",
@@ -125,20 +181,6 @@
             "type" : "forknote",
             "miningAddress" : "turtlepool.ml"
         },
-        {
-            "name" : "Turtle.Casa",
-            "url" : "https://turtle.casa/",
-            "api" : "https://turtle.casa:8119/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.casa"
-        },
-        {
-            "name" : "TurtleMiners.club",
-            "url" : "http://turtleminers.club/",
-            "api" : "http://turtleminers.club:8117/",
-            "type" : "node.js",
-            "miningAddress" : "turtleminers.club"
-        },      
         {
             "name" : "TurtlePool.space EU",
             "url" : "http://eu.turtlepool.space/",
@@ -159,13 +201,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },
-        {
-            "name" : "Zpool.com",
-            "url" : "https://z-pool.com/",
-            "api" : "https://z-pool.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "z-pool.com"
         }
     ]
 }
