@@ -173,7 +173,14 @@
             "api" : "http://turtleminers.club:8117/",
             "type" : "forknote",
             "miningAddress" : "turtleminers.club"
-        },      
+        },
+        {
+            "name" : "TurtlePool.ml",
+            "url" : "http://turtlepool.ml/",
+            "api" : "http://turtlepool.ml:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtlepool.ml"
+        },
         {
             "name" : "TurtlePool.space EU",
             "url" : "http://eu.turtlepool.space/",
