@@ -30,8 +30,8 @@
         },
         {
             "name" : "Crazybird's Pool",
-            "url" : "http://www.crazybird.fr/",
-            "api" : "http://www.crazybird.fr:8117/",
+            "url" : "https://www.crazybird.fr/turtlepool/",
+            "api" : "http://mining.crazybird.fr:8117/",
             "type" : "forknote",
             "miningAddress" : "crazybird.fr"
         },
