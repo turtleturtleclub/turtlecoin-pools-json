@@ -168,13 +168,6 @@
             "miningAddress" : "turtle.smartcoinpool.com"
         },
         {
-            "name" : "TurtleMiners.club",
-            "url" : "http://turtleminers.club/",
-            "api" : "http://turtleminers.club:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtleminers.club"
-        },
-        {
             "name" : "TurtlePool.ml",
             "url" : "http://turtlepool.ml/",
             "api" : "http://turtlepool.ml:8117/",
