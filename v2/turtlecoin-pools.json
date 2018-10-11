@@ -84,6 +84,13 @@
             "miningAddress" : "trtl.pool.gntl.co.uk"
         },
         {
+            "name" : "GrubToken",
+            "url" : "http://grubtoken.justminers.com/",
+            "api" : "http://grubtoken.justminers.com:8117/",
+            "type" : "forknote",
+            "miningAddress" : "grubtoken.justminers.com"
+        },
+        {
             "name" : "ImHard4.men",
             "url" : "http://turtlehomosecs.imhard4.men/",
             "api" : "http://turtlehomosecs.imhard4.men:8117/",
@@ -201,13 +208,6 @@
             "api" : "http://us.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "us.turtlepool.space"
-        },    
-       {
-            "name" : "grubtoken",
-            "url" : "http://grubtoken.justminers.com/",
-            "api" : "http://grubtoken.justminers.com:8117",
-            "type" : "forknote",
-            "miningAddress" : "grubtoken.justminers.com"
-          }
+        }
     ]
 }
