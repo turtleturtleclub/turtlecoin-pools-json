@@ -203,4 +203,11 @@
             "miningAddress" : "us.turtlepool.space"
         }
     ]
-}
+},
+        {
+            "name" : "grubtoken",
+            "url" : "http://grubtoken.justminers.com/",
+            "api" : "http://grubtoken.justminers.com:8117",
+            "type" : "forknote",
+            "miningAddress" : "grubtoken.justminers.com"
+        }
