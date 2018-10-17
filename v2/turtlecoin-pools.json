@@ -126,13 +126,6 @@
             "miningAddress" : "ny.minetrtl.us"
         },
         {
-            "name" : "Mining.garden",
-            "url" : "https://turtle.mining.garden/",
-            "api" : "https://turtle.mining.garden:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.mining.garden"
-        },
-        {
             "name" : "PSRcrypto.com",
             "url" : "http://turtle.psrcrypto.com/",
             "api": "http://turtle.psrcrypto.com:8117/",
