@@ -84,13 +84,20 @@
             "miningAddress" : "trtl.pool.gntl.co.uk"
         },
         {
+            "name" : "GrubToken",
+            "url" : "http://grubtoken.justminers.com/",
+            "api" : "http://grubtoken.justminers.com:8117/",
+            "type" : "forknote",
+            "miningAddress" : "grubtoken.justminers.com"
+        },
+        {
             "name" : "ImHard4.men",
             "url" : "http://turtlehomosecs.imhard4.men/",
             "api" : "http://turtlehomosecs.imhard4.men:8117/",
             "type" : "forknote",
             "miningAddress" : "turtlehomosecs.imhard4.men"
         },
-        }
+        {
             "name" : "Llama.Horse",
             "url" : "http://trtl.llama.horse/",
             "api" : "http://pool.llama.horse:8118/",
