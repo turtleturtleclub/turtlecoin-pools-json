@@ -91,6 +91,13 @@
             "miningAddress" : "grubtoken.justminers.com"
         },
         {
+            "name" : "Hackerknowledge.de",
+            "url" : "https://trtl.hackerknowledge.de/",
+            "api" : "https://pool.trtl.hackerknowledge.de:8119/",
+            "type" : "forknote",
+            "miningAddress" : "pool.trtl.hackerknowledge.de"
+        },
+        {
             "name" : "ImHard4.men",
             "url" : "http://turtlehomosecs.imhard4.men/",
             "api" : "http://turtlehomosecs.imhard4.men:8117/",
