@@ -98,6 +98,13 @@
             "miningAddress" : "pool.trtl.hackerknowledge.de"
         },
         {
+            "name" : "HashVault.pro",
+            "url" : "https://turtle.hashvault.pro/",
+            "api" : "https://turtle.hashvault.pro/api/",
+            "type" : "node.js",
+            "miningAddress" : "pool.turtle.hashvault.pro"
+        },
+        {
             "name" : "Llama.Horse",
             "url" : "http://trtl.llama.horse/",
             "api" : "http://pool.llama.horse:8118/",
