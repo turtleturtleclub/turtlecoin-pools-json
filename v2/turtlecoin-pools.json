@@ -8,7 +8,7 @@
             "miningAddress" : "geo.atpool.party"
         },
         {
-            "name" : "MinerCartel TurtleCoin",
+            "name" : "MinerCartel",
             "url" : "https://turtle.minercartel.com/",
             "api" : "https://api.turtle.minercartel.com/api/",
             "type" : "node.js",
