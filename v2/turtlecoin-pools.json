@@ -8,9 +8,9 @@
             "miningAddress" : "geo.atpool.party"
         },
         {
-            "name" : "Bathmat's",
-            "url" : "https://turtle.bathmatminingpools.com/",
-            "api" : "https://api.turtle.bathmatminingpools.com/api/",
+            "name" : "MinerCartel TurtleCoin",
+            "url" : "https://turtle.minercartel.com/",
+            "api" : "https://api.turtle.minercartel.com/api/",
             "type" : "node.js",
             "miningAddress" : "turtle.minercartel.com"
         },
