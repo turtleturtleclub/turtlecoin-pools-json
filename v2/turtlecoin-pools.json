@@ -109,7 +109,7 @@
             "name" : "Llama.Horse",
             "url" : "http://trtl.llama.horse/",
             "api" : "http://pool.llama.horse:8118/",
-            "type" : "node.js",
+            "type" : "forknote",
             "miningAddress" : "trtl.pool.llama.horse"
         },
         {
