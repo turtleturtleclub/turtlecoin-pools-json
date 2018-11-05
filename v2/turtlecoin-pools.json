@@ -8,13 +8,6 @@
             "miningAddress" : "geo.atpool.party"
         },
         {
-            "name" : "MinerCartel",
-            "url" : "https://turtle.minercartel.com/",
-            "api" : "https://api.turtle.minercartel.com/api/",
-            "type" : "node.js",
-            "miningAddress" : "turtle.minercartel.com"
-        },
-        {
             "name" : "BlueRockPools.net",
             "url" : "https://trtl.bluerockpools.net/",
             "api" : "https://trtl.bluerockpools.net:8111/",
@@ -124,6 +117,13 @@
             "api" : "https://trtl.mine2gether.com/api/",
             "type" : "forknote",
             "miningAddress" : "trtl.pool.mine2gether.com"
+        },
+        {
+            "name" : "MinerCartel",
+            "url" : "https://turtle.minercartel.com/",
+            "api" : "https://api.turtle.minercartel.com/api/",
+            "type" : "node.js",
+            "miningAddress" : "turtle.minercartel.com"
         },
         {
             "name" : "MineTRTL.us",
