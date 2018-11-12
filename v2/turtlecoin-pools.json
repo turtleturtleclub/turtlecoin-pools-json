@@ -24,14 +24,14 @@
         {
             "name" : "Crazybird's Pool",
             "url" : "https://www.crazybird.fr/turtlepool/",
-            "api" : "http://mining.crazybird.fr:8117/",
+            "api" : "https://mining.crazybird.fr:8118/",
             "type" : "forknote",
             "miningAddress" : "crazybird.fr"
         },
         {
             "name" : "CryptoAsiaPool.com",
             "url" : "http://trtl.cryptoasiapool.com/",
-            "api" : "http://trtl.cryptoasiapool.com:8117/",
+            "api" : "http://trtl.cryptoasiapool.com:8118/",
             "type" : "forknote",
             "miningAddress" : "trtl.cryptoasiapool.com"
         },
@@ -76,13 +76,6 @@
             "api" : "https://trtl.pool.gntl.co.uk/api/",
             "type" : "node.js",
             "miningAddress" : "trtl.pool.gntl.co.uk"
-        },
-        {
-            "name" : "GrubToken",
-            "url" : "http://grubtoken.justminers.com/",
-            "api" : "http://grubtoken.justminers.com:8117/",
-            "type" : "forknote",
-            "miningAddress" : "grubtoken.justminers.com"
         },
         {
             "name" : "Hackerknowledge.de",
