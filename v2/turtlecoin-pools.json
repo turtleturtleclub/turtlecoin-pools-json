@@ -8,13 +8,6 @@
             "miningAddress" : "geo.atpool.party"
         },
         {
-            "name" : "BlueRockPools.net",
-            "url" : "https://trtl.bluerockpools.net/",
-            "api" : "https://trtl.bluerockpools.net:8111/",
-            "type" : "forknote-alt",
-            "miningAddress" : "trtl.bluerockpools.net"
-        },
-        {
             "name" : "CODPool",
             "url" : "https://trtl.codpool.com/",
             "api" : "https://pool1.codpool.com:8119/",
