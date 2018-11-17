@@ -120,18 +120,18 @@
             "miningAddress" : "ny.minetrtl.us"
         },
         {
-            "name" : "PSRcrypto.com",
-            "url" : "http://turtle.psrcrypto.com/",
-            "api": "http://turtle.psrcrypto.com:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.psrcrypto.com"
-        },
-        {
             "name" : "Proxpool.com",
             "url" : "http://trtl.proxpool.com/",
             "api" : "http://trtl-pool.proxpool.com/api/",
             "type" : "forknote",
             "miningAddress" : "trtl-pool.proxpool.com"
+        },
+        {
+            "name" : "PSRcrypto.com",
+            "url" : "http://turtle.psrcrypto.com/",
+            "api": "http://turtle.psrcrypto.com:8117/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.psrcrypto.com"
         },
         {
             "name" : "semiPOOL.com",
