@@ -195,13 +195,6 @@
             "api" : "http://hk.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "hk.turtlepool.space"
-        },
-        {
-            "name" : "TurtlePool.space US",
-            "url" : "http://us.turtlepool.space/",
-            "api" : "http://us.turtlepool.space/api/",
-            "type" : "forknote",
-            "miningAddress" : "us.turtlepool.space"
         }
     ]
 }
