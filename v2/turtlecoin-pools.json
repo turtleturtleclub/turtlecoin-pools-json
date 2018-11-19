@@ -64,13 +64,6 @@
             "miningAddress" : "trtl.heigh-ho.funkypenguin.co.nz"
         },
         {
-            "name" : "GNTL TRTL",
-            "url" : "https://trtl.pool.gntl.co.uk/",
-            "api" : "https://trtl.pool.gntl.co.uk/api/",
-            "type" : "node.js",
-            "miningAddress" : "trtl.pool.gntl.co.uk"
-        },
-        {
             "name" : "Hackerknowledge.de",
             "url" : "https://trtl.hackerknowledge.de/",
             "api" : "https://pool.trtl.hackerknowledge.de:8119/",
