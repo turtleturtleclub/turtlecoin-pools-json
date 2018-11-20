@@ -6,7 +6,7 @@ This list can be consumed in your application so you'll always have an up-to-dat
 
 ## Contributing
 
-Please add your pool to the list in **alphabetical order**, named using CamelCase.domain style, and **including trailing slashes** for the `url` and `api` values.
+Please add your pool to the list in **alphabetical order**, named using CamelCase.domain style, and **include trailing slashes** for the `url` and `api` values.
 
 **e.g.**
 ```
