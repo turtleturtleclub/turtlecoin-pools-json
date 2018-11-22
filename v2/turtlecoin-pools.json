@@ -188,6 +188,13 @@
             "api" : "http://hk.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "hk.turtlepool.space"
+        },
+        {
+            "name" : "miner.rocks",
+            "url" : "https://turtle.miner.rocks/",
+            "api" : "https://turtle.miner.rocks/api/",
+            "type" : "forknote",
+            "miningAddress" : "turtle.miner.rocks"
         }
     ]
 }
