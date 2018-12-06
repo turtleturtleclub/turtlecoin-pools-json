@@ -195,6 +195,13 @@
             "api" : "http://hk.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "hk.turtlepool.space"
+        },
+        {
+            "name" : "turtlecoin.herominers.com",
+            "url" : "https://turtle.herominers.com/",
+            "api" : "https://turtle.herominers.com/api/",
+            "type" : "forknote",
+            "miningAddress" : "turtlecoin.herominers.com"
         }
     ]
 }
