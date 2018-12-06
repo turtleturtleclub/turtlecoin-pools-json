@@ -199,7 +199,7 @@
         {
             "name" : "turtlecoin.herominers.com",
             "url" : "https://turtle.herominers.com/",
-            "api" : "https://turtle.herominers.com/api/",
+            "api" : "https://turtle.herominers.com/api/stats",
             "type" : "forknote",
             "miningAddress" : "turtlecoin.herominers.com"
         }
