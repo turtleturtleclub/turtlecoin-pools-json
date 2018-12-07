@@ -176,6 +176,13 @@
             "miningAddress" : "turtle.smartcoinpool.com"
         },
         {
+            "name" : "Turtlecoin.herominers.com",
+            "url" : "https://turtlecoin.herominers.com/",
+            "api" : "https://turtlecoin.herominers.com/api/",
+            "type" : "forknote",
+            "miningAddress" : "turtlecoin.herominers.com"
+        },
+        {
             "name" : "TurtlePool.ml",
             "url" : "http://turtlepool.ml/",
             "api" : "http://turtlepool.ml:8117/",
