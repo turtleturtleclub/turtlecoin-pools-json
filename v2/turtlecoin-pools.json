@@ -176,6 +176,13 @@
             "miningAddress" : "turtle.smartcoinpool.com"
         },
         {
+            "name" : "Turtlecoin.herominers.com",
+            "url" : "https://turtlecoin.herominers.com/",
+            "api" : "https://turtlecoin.herominers.com/api/",
+            "type" : "forknote",
+            "miningAddress" : "turtlecoin.herominers.com"
+        },
+        {
             "name" : "TurtlePool.ml",
             "url" : "http://turtlepool.ml/",
             "api" : "http://turtlepool.ml:8117/",
@@ -195,13 +202,6 @@
             "api" : "http://hk.turtlepool.space/api/",
             "type" : "forknote",
             "miningAddress" : "hk.turtlepool.space"
-        },
-        {
-            "name" : "turtlecoin.herominers.com",
-            "url" : "https://turtle.herominers.com/",
-            "api" : "https://turtle.herominers.com/api/stats",
-            "type" : "forknote",
-            "miningAddress" : "turtlecoin.herominers.com"
         }
     ]
 }
