@@ -50,13 +50,6 @@
             "miningAddress" : "pool.trtl.cryptopool.space"
         },
         {
-            "name" : "fr.trtl.no EU",
-            "url" : "http://fr.trtl.no/",
-            "api" : "http://fr.trtl.no:8117/",
-            "type" : "forknote",
-            "miningAddress" : "fr.trtl.no"
-        },
-        {
             "name" : "FunkyPenguin.co.nz",
             "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
             "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
@@ -127,13 +120,6 @@
             "miningAddress" : "trtl-pool.proxpool.com"
         },
         {
-            "name" : "PSRcrypto.com",
-            "url" : "http://turtle.psrcrypto.com/",
-            "api": "http://turtle.psrcrypto.com:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.psrcrypto.com"
-        },
-        {
             "name" : "semiPOOL.com",
             "url" : "https://trtl.semipool.com/",
             "api" : "https://trtl-api.semipool.com/",
@@ -146,13 +132,6 @@
             "api" : "https://trtl.ninja/api/",
             "type" : "forknote",
             "miningAddress" : "pool.trtl.ninja"
-        },
-        {
-            "name" : "TRTL.waale.me",
-            "url" : "http://trtl.waale.me/",
-            "api" : "http://trtl.waale.me:8117/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.waale.me"
         },
         {
             "name" : "TRTLCoinPool.tk",
