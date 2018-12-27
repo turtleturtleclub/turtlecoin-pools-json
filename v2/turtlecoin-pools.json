@@ -113,6 +113,13 @@
             "miningAddress" : "ny.minetrtl.us"
         },
         {
+            "name" : "MuxDux.com",
+            "url" : "https://trtl.muxdux.com/",
+            "api" : "https://trtl.muxdux.com/api/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.muxdux.com"
+        },
+        {
             "name" : "Proxpool.com",
             "url" : "http://trtl.proxpool.com/",
             "api" : "http://trtl-pool.proxpool.com/api/",
