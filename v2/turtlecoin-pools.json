@@ -122,7 +122,7 @@
         {
             "name" : "semiPOOL.com",
             "url" : "https://trtl.semipool.com/",
-            "api" : "https://trtl-api.semipool.com/",
+            "api" : "https://webtrtl.semipool.com/api/",
             "type" : "node.js",
             "miningAddress" : "pool.trtl.semipool.com"
         },
