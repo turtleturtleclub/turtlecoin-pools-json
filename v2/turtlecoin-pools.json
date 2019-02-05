@@ -134,6 +134,13 @@
             "miningAddress" : "pool.trtl.semipool.com"
         },
         {
+            "name" : "SteadyHash.org",
+            "url" : "https://trtl.steadyhash.org/",
+            "api" : "https://trtl.steadyhash.org/api/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.steadyhash.org"
+        },
+        {
             "name" : "TRTL.ninja",
             "url" : "https://trtl.ninja/",
             "api" : "https://trtl.ninja/api/",
