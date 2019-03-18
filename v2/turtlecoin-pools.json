@@ -155,6 +155,13 @@
       "miningAddress": "trtl.steadyhash.org"
     },
     {
+      "name": "stroppy.tk",
+      "url": "http://trtl.stroppy.tk/",
+      "api": "http://stroppy.ddns.net:8119",
+      "type": "cryptonote-nodejs-pool",
+      "miningAddress": "stroppy.ddns.net"
+    },
+    {
       "name": "TRTL.ninja",
       "url": "https://trtl.ninja/",
       "api": "https://trtl.ninja/api/",
