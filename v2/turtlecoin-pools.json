@@ -57,11 +57,11 @@
       "miningAddress": "pool.trtl.cryptopool.space"
     },
     {
-        "name" : "FlowMine.xyz",
-        "url" : "https://trtl.pool.flowmine.xyz/",
-        "api" : "https://trtl.pool.flowmine.xyz:8111/",
-        "type" : "node.js",
-        "miningAddress": "trtl.pool.flowmine.xyz"
+      "name" : "FlowMine.xyz",
+      "url" : "https://trtl.pool.flowmine.xyz/",
+      "api" : "https://trtl.pool.flowmine.xyz:8111/",
+      "type" : "node.js",
+      "miningAddress": "trtl.pool.flowmine.xyz"
     },
     {
       "name": "FunkyPenguin.co.nz",
