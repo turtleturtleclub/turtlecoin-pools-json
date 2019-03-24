@@ -216,6 +216,13 @@
       "api": "http://hk.turtlepool.space/api/",
       "type": "forknote",
       "miningAddress": "hk.turtlepool.space"
+    },
+    {
+      "name" : "Webhop.me",
+      "url" : "https://coinpoolit.webhop.me/trtl/",
+      "api" : "https://coinpoolit.webhop.me:8009/",
+      "type" : "forknote",
+      "miningAddress" : "coinpoolit.webhop.me"
     }
   ]
 }
