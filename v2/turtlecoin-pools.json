@@ -208,9 +208,9 @@
     {
       "name": "stroppy.tk",
       "url": "http://trtl.stroppy.tk/",
-      "api": "http://stroppy.ddns.net:8119",
+      "api": "http://trtl-stroppy.ddns.net:8119",
       "type": "cryptonote-nodejs-pool",
-      "miningAddress": "stroppy.ddns.net",
+      "miningAddress": "trtl-stroppy.ddns.net",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
