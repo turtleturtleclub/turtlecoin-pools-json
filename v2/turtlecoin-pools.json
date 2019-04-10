@@ -82,6 +82,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Enigma-Mining.de",
+      "url": "https://trtl.enigma-mining.de/",
+      "api": "https://trtl.enigma-mining.de/trtl/",
+      "type": "forknote",
+      "miningAddress": "trtl.enigma-mining.de",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "FlowMine.xyz",
       "url": "https://trtl.pool.flowmine.xyz/",
       "api": "https://trtl.pool.flowmine.xyz:8111/",
