@@ -136,6 +136,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "LokiTurtle.herominers.com",
+      "url": "https://lokiturtle.herominers.com/",
+      "api": "https://lokiturtle.herominers.com/api/",
+      "type": "forknote",
+      "miningAddress": "lokiturtle.herominers.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Mine.nu",
       "url": "http://turtle.mine.nu/",
       "api": "http://turtle.mine.nu:8117/",
