@@ -82,6 +82,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "CuvéeARM TurtleCoin Pool",
+      "url": "https://publicnode.ydns.eu/",
+      "api": "https://publicnode.ydns.eu/api/",
+      "type": "forknote",
+      "miningAddress": "publicnode.ydns.eu",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Enigma-Mining.de",
       "url": "https://trtl.enigma-mining.de/",
       "api": "https://trtl.enigma-mining.de/trtl/",
