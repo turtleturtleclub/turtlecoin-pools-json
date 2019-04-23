@@ -242,6 +242,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "STX Merged Mining Pool",
+      "url": "https://tlrmtrtl.merged.stx.nl/",
+      "api": "https://tlrmtrtl.merged.stx.nl/tlrmtl-api/",
+      "type": "forknote",
+      "miningAddress": "tlrmtrtl.merged.stx.nl",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "stroppy.tk",
       "url": "http://trtl.stroppy.tk/",
       "api": "http://trtl-stroppy.ddns.net:8119",
