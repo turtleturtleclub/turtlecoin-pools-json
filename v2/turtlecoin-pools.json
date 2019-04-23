@@ -172,6 +172,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Mine2Gether.com TRTL+LOKI",
+      "url": "https://trtlloki.mine2gether.com/",
+      "api": "https://trtlloki.mine2gether.com/api/",
+      "type": "forknote",
+      "miningAddress": "trtlloki.pool.mine2gether.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "MinerCartel",
       "url": "https://turtle.minercartel.com/",
       "api": "https://api.turtle.minercartel.com/api/",
