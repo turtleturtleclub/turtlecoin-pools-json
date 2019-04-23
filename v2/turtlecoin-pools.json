@@ -323,6 +323,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Xtendcash.herominers.com",
+      "url": "https://Xtendcash.herominers.com/",
+      "api": "https://Xtendcash.herominers.com/api/",
+      "type": "forknote",
+      "miningAddress": "Xtendcash.herominers.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Webhop.me",
       "url": "https://coinpoolit.webhop.me/trtl/",
       "api": "https://coinpoolit.webhop.me:8009/",
