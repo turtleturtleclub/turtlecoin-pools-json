@@ -28,38 +28,11 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "Crazybird's Pool",
-      "url": "https://www.crazybird.fr/turtlepool/",
-      "api": "https://mining.crazybird.fr:8118/",
-      "type": "forknote",
-      "miningAddress": "crazybird.fr",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "CryptoAsiaPool.com",
       "url": "http://trtl.cryptoasiapool.com/",
       "api": "http://trtl.cryptoasiapool.com:8118/",
       "type": "forknote",
       "miningAddress": "trtl.cryptoasiapool.com",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "CryptoHispano.net",
-      "url": "https://trtl.cryptohispano.net/",
-      "api": "https://trtl.cryptohispano.net/api/",
-      "type": "forknote",
-      "miningAddress": "trtl.cryptohispano.net",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "CryptoMine.cx",
-      "url": "https://trtl.cryptomine.cx/",
-      "api": "https://trtl.cryptomine.cx/api/",
-      "type": "forknote",
-      "miningAddress": "trtl.cryptomine.cx",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
@@ -91,24 +64,6 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "Enigma-Mining.de",
-      "url": "https://trtl.enigma-mining.de/",
-      "api": "https://trtl.enigma-mining.de/trtl/",
-      "type": "forknote",
-      "miningAddress": "trtl.enigma-mining.de",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "FlowMine.xyz",
-      "url": "https://trtl.pool.flowmine.xyz/",
-      "api": "https://trtl.pool.flowmine.xyz:8111/",
-      "type": "node.js",
-      "miningAddress": "trtl.pool.flowmine.xyz",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "FunkyPenguin.co.nz",
       "url": "https://trtl.heigh-ho.funkypenguin.co.nz/",
       "api": "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
@@ -132,15 +87,6 @@
       "api": "https://turtle.hashvault.pro/api/",
       "type": "node.js",
       "miningAddress": "pool.turtle.hashvault.pro",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "Llama.Horse",
-      "url": "http://trtl.llama.horse/",
-      "api": "http://pool.llama.horse:8118/",
-      "type": "forknote",
-      "miningAddress": "trtl.pool.llama.horse",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
@@ -178,15 +124,6 @@
       "type": "forknote",
       "miningAddress": "trtlloki.pool.mine2gether.com",
       "mergedMining": true,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "MinerCartel",
-      "url": "https://turtle.minercartel.com/",
-      "api": "https://api.turtle.minercartel.com/api/",
-      "type": "node.js",
-      "miningAddress": "turtle.minercartel.com",
-      "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
     {
@@ -274,33 +211,6 @@
       "api": "https://trtl.ninja/api/",
       "type": "forknote",
       "miningAddress": "pool.trtl.ninja",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "TRTLCoinPool.tk",
-      "url": "http://trtlcoinpool.tk/",
-      "api": "http://trtlcoinpool.tk:2082/",
-      "type": "forknote",
-      "miningAddress": "trtlcoinpool.tk",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "Turtle.casa",
-      "url": "https://turtle.casa/",
-      "api": "https://api.turtle.casa/",
-      "type": "forknote",
-      "miningAddress": "turtle.casa",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "Turtle.smartcoinpool.com",
-      "url": "https://turtle.smartcoinpool.com/",
-      "api": "https://turtle.smartcoinpool.com:3109/",
-      "type": "forknote",
-      "miningAddress": "turtle.smartcoinpool.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
