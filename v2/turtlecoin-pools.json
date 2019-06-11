@@ -64,15 +64,6 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "FunkyPenguin.co.nz",
-      "url": "https://trtl.heigh-ho.funkypenguin.co.nz/",
-      "api": "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
-      "type": "forknote",
-      "miningAddress": "trtl.heigh-ho.funkypenguin.co.nz",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "Hackerknowledge.de",
       "url": "https://trtl.hackerknowledge.de/",
       "api": "https://pool.trtl.hackerknowledge.de:8119/",
