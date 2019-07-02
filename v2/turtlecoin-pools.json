@@ -253,10 +253,10 @@
     {
       "name": "Webhop.me",
       "url": "https://coinpoolit.webhop.me/trtl/",
-      "api": "https://coinpoolit.webhop.me:8009/",
+      "api": "https://coinpoolit.webhop.me:7009/",
       "type": "forknote",
       "miningAddress": "coinpoolit.webhop.me",
-      "mergedMining": false,
+      "mergedMining": true,
       "mergedMiningIsParentChain": false
     }
   ]
