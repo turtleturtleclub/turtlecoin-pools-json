@@ -10,6 +10,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Burstl.net FPGA Mining Pool",
+      "url": "http://trtl.burstl.net/",
+      "api": "http://trtl.burstl.net:8117/",
+      "type": "forknote",
+      "miningAddress": "trtl.burstl.net",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "CNPool.cc",
       "url": "https://cnpool.cc/trtl/",
       "api": "https://cnpool.cc/api/trtl/",
