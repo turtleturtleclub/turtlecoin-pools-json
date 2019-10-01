@@ -118,6 +118,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "MinerCountry.com",
+      "url": "https://argon2.minercountry.com",
+      "api": "https://argon2.minercountry.com/tmapi/",
+      "type": "forknote",
+      "miningAddress": "argon2.minercountry.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "MineTRTL.us",
       "url": "http://ny.minetrtl.us/",
       "api": "http://ny.minetrtl.us:8117/",
