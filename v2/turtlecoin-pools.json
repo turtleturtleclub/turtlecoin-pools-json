@@ -136,6 +136,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Moria Turtle Pool",
+      "url": "http://www.moriapool.eu/trtl/",
+      "api": "http://trtl-moria.zapto.org:8117/",
+      "type": "forknote",
+      "miningAddress": "trtl-moria.zapto.org",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "MuxDux.com",
       "url": "https://trtl.muxdux.com/",
       "api": "https://trtl.muxdux.com/api/",
