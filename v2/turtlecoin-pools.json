@@ -46,6 +46,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Cryptonote Club",
+      "url": "https://trtl.cryptonote.club/",
+      "api": "https://trtl.cryptonote.club:8199/",
+      "type": "forknote",
+      "miningAddress": "trtl.cryptonote.club",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": true
+    },
+    {
       "name": "CryptoPool.space",
       "url": "https://trtl.cryptopool.space/",
       "api": "https://trtl.cryptopool.space/api/",
