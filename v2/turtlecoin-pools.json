@@ -73,12 +73,30 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "FastPool.xyz",
+      "name": "FastPool.xyz (BTCMZ+TRTL)",
+      "url": "https://fastpool.xyz/btcm/",
+      "api": "https://fastpool.xyz/api-btcmz-trtl/",
+      "type": "forknote",
+      "miningAddress": "fastpool.xyz",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "FastPool.xyz (TRTL+BTCMZ)",
       "url": "https://fastpool.xyz/trtl/",
       "api": "https://fastpool.xyz/api-trtl/",
       "type": "forknote",
       "miningAddress": "fastpool.xyz",
       "mergedMining": true,
+      "mergedMiningIsParentChain": true
+    },
+    {
+      "name": "FunWithCrypto",
+      "url": "https://funwithcrypto.tk/trtl/",
+      "api": "https://funwithcrypto.tk:8125/",
+      "type": "forknote",
+      "miningAddress": "funwithcrypto.tk",
+      "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
     {
