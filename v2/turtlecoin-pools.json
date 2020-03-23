@@ -179,6 +179,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "TrtlPool.com",
+      "url": "http://trtlpool.com/",
+      "api": "http://trtlpool.com:8117",
+      "type": "forknote",
+      "miningAddress": "trtlpool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Turtlecoin.herominers.com",
       "url": "https://turtlecoin.herominers.com/",
       "api": "https://turtlecoin.herominers.com/api/",
