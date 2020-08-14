@@ -93,7 +93,7 @@
     {
       "name": "HashVault.pro",
       "url": "https://turtle.hashvault.pro/",
-      "api": "https://api.hashvault.pro/v2/turtle/",
+      "api": "https://api.hashvault.pro/v3/turtle/",
       "type": "node.js",
       "miningAddress": "pool.hashvault.pro",
       "mergedMining": false,
