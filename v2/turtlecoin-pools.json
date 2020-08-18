@@ -10,29 +10,11 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "Burstl.net FPGA Mining Pool",
-      "url": "http://trtl.burstl.net/",
-      "api": "http://trtl.burstl.net:8117/",
-      "type": "forknote",
-      "miningAddress": "trtl.burstl.net",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "CNPool.cc",
       "url": "https://cnpool.cc/trtl/",
       "api": "https://cnpool.cc/api/trtl/",
       "type": "forknote",
       "miningAddress": "trtl.cnpool.cc",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "CryptoAsiaPool.com",
-      "url": "http://trtl.cryptoasiapool.com/",
-      "api": "http://trtl.cryptoasiapool.com:8118/",
-      "type": "forknote",
-      "miningAddress": "trtl.cryptoasiapool.com",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
@@ -80,15 +62,6 @@
       "miningAddress": "fastpool.xyz",
       "mergedMining": true,
       "mergedMiningIsParentChain": true
-    },
-    {
-      "name": "FunWithCrypto",
-      "url": "https://funwithcrypto.tk/trtl/",
-      "api": "https://funwithcrypto.tk:8125/",
-      "type": "forknote",
-      "miningAddress": "funwithcrypto.tk",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
     },
     {
       "name": "HashVault.pro",
@@ -159,15 +132,6 @@
       "api": "https://webtrtl.semipool.com/api/",
       "type": "node.js",
       "miningAddress": "pool.trtl.semipool.com"
-    },
-    {
-      "name": "SpookyPool.nl",
-      "url": "http://trtl.spookypool.nl/",
-      "api": "http://trtl.spookypool.nl:9117/",
-      "type": "forknote",
-      "miningAddress": "spookypool.nl",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
     },
     {
       "name": "SteadyHash.org",
