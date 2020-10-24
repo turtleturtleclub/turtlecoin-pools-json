@@ -109,6 +109,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Monero Ocean",
+      "url": "https://moneroocean.stream/",
+      "api": "https://api.moneroocean.stream/",
+      "type": "snowflake-1",
+      "miningAddress": "gulf.moneroocean.stream",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Moria Turtle Pool",
       "url": "http://www.moriapool.eu/trtl/",
       "api": "http://trtl-moria.zapto.org:8117/",
