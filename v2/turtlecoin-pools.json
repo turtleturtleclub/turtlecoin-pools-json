@@ -10,6 +10,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "C3Pool",
+      "url": "https://c3pool.com/",
+      "api": "https://api.c3pool.com/",
+      "type": "snowflake-1",
+      "miningAddress": "mine.c3pool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "CNPool.cc",
       "url": "https://cnpool.cc/trtl/",
       "api": "https://cnpool.cc/api/trtl/",
