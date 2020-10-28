@@ -152,6 +152,15 @@
       "miningAddress": "pool.trtl.semipool.com"
     },
     {
+      "name": "SmartCoinPool.net",
+      "url": "https://arqma.smartcoinpool.net/",
+      "api": "https://arqma.smartcoinpool.net/api/",
+      "type": "node.js",
+      "miningAddress": "arqma.smartcoinpool.net",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "SteadyHash.org",
       "url": "https://trtl.steadyhash.org/",
       "api": "https://trtl.steadyhash.org/api/",
