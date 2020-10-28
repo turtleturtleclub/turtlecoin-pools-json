@@ -155,7 +155,7 @@
       "name": "SmartCoinPool.net",
       "url": "https://arqma.smartcoinpool.net/",
       "api": "https://arqma.smartcoinpool.net/api/",
-      "type": "node.js",
+      "type": "forknote",
       "miningAddress": "arqma.smartcoinpool.net",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
