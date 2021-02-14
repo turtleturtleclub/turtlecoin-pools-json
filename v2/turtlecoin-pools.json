@@ -145,6 +145,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "NewPool.pw",
+      "url": "https://newpool.pw/trtl/",
+      "api": "https://minenice.newpool.pw:8235/",
+      "type": "forknote",
+      "miningAddress": "minenice.newpool.pw",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "semiPOOL.com",
       "url": "https://webtrtl.semipool.com/",
       "api": "https://webtrtl.semipool.com/api/",
