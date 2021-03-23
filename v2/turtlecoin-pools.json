@@ -179,6 +179,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Solo Mining",
+      "url": "https://explorer.turtlecoin.lol/solo.html",
+      "api": "https://solo.turtlecoin.dev/",
+      "type": "solo",
+      "miningAddress": "pool.solo.turtlecoin.dev",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "SteadyHash.org",
       "url": "https://trtl.steadyhash.org/",
       "api": "https://trtl.steadyhash.org/api/",
