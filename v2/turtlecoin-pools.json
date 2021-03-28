@@ -64,6 +64,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "FairCryptoCoins TurtleCoin Pool",
+      "url": "https://turtlepool.faircryptocoins.xyz",
+      "api": "https://turtlepoolapi.faircryptocoins.xyz",
+      "type": "forknote",
+      "miningAddress": "turtlepool.faircryptocoins.xyz",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "FastPool.xyz (BTCMZ+TRTL)",
       "url": "https://fastpool.xyz/btcm/",
       "api": "https://fastpool.xyz/api-btcmz-trtl/",
