@@ -65,8 +65,8 @@
     },
     {
       "name": "FairCryptoCoins TurtleCoin Pool",
-      "url": "https://turtlepool.faircryptocoins.xyz",
-      "api": "https://turtlepoolapi.faircryptocoins.xyz",
+      "url": "https://turtlepool.faircryptocoins.xyz/",
+      "api": "https://turtlepoolapi.faircryptocoins.xyz/",
       "type": "forknote",
       "miningAddress": "turtlepool.faircryptocoins.xyz",
       "mergedMining": false,
