@@ -101,7 +101,7 @@
     },
     {
       "name": "Turtlecoin.herominersr.gay",
-      "url": "https://turtlecoin.herominersr.gay/",
+      "url": "http://turtlecoin.herominersr.gay/",
       "api": "http://turtlecoin.herominersr.gay:8117/",
       "type": "forknote",
       "miningAddress": "turtlecoin.herominersr.gay",
