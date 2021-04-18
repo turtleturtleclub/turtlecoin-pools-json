@@ -119,8 +119,8 @@
     }
     {
       "name": "Turtlecoin.e4pool.tech",
-      "url": "https://turtlecoin.e4pool.tech/",
-      "api": "https://turtlecoin.e4pool.tech:8117/",
+      "url": "http://turtlecoin.e4pool.tech/",
+      "api": "http://turtlecoin.e4pool.tech:8117/",
       "type": "forknote",
       "miningAddress": "turtlecoin.e4pool.tech",
       "mergedMining": false,
