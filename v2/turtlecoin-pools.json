@@ -126,5 +126,14 @@
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
+    {
+      "name": "TurtleTurtle.Club",
+      "url": "http://turtleturtle.club/",
+      "api": "http://turtleturtle.club:8117/",
+      "type": "forknote",
+      "miningAddress": "turtleturtle.club",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    }
   ]
 }
