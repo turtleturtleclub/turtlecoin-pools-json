@@ -91,6 +91,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "pool.proxylogin.net",
+      "url": "http://pool.proxylogin.net/trtl/",
+      "api": "http://trtl.proxylogin.net:8117/",
+      "type": "forknote",
+      "miningAddress": "pool.proxylogin.net",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Solo Mining",
       "url": "https://explorer.turtlecoin.lol/solo.html",
       "api": "https://solo.turtlecoin.dev/",
