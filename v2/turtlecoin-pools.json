@@ -137,10 +137,10 @@
     },
     {
       "name": "TurtleTurtle.Club",
-      "url": "http://turtleturtle.club/",
-      "api": "http://turtleturtle.club:8117/",
+      "url": "http://pond.turtleturtle.club/",
+      "api": "http://pond.turtleturtle.club:8117/",
       "type": "forknote",
-      "miningAddress": "turtleturtle.club",
+      "miningAddress": "pond.turtleturtle.club",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
