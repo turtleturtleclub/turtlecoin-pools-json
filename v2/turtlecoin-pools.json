@@ -91,11 +91,11 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "pool.proxylogin.net",
+      "name": "ProxyLogin.net",
       "url": "http://pool.proxylogin.net/trtl/",
       "api": "http://trtl.proxylogin.net:8117/",
       "type": "forknote",
-      "miningAddress": "pool.proxylogin.net",
+      "miningAddress": "trtl.proxylogin.net",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
