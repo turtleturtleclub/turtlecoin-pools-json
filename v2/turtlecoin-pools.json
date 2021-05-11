@@ -55,6 +55,15 @@
       "mergedMiningIsParentChain": true
     },
     {
+      "name": "Liberty Pool",
+      "url": "https://liberty-pool.com/",
+      "api": "https://liberty-pool.com/apinetwork/",
+      "type": "snowflake-1",
+      "miningAddress": "liberty-pool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "HashVault.pro",
       "url": "https://turtle.hashvault.pro/",
       "api": "https://api.hashvault.pro/v3/turtle/",
