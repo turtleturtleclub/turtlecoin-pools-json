@@ -57,7 +57,7 @@
     {
       "name": "Liberty Pool",
       "url": "https://liberty-pool.com/",
-      "api": "https://liberty-pool.com/apinetwork/",
+      "api": "https://liberty-pool.com/apipool/",
       "type": "snowflake-1",
       "miningAddress": "liberty-pool.com",
       "mergedMining": false,
