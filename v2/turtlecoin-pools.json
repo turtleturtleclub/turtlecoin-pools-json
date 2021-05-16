@@ -100,6 +100,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Pool-Pay.com",
+      "url": "https://trtl.pool-pay.com/",
+      "api": "https://trtl.pool-pay.com:8119/",
+      "type": "forknote",
+      "miningAddress": "trtl.pool-pay.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "ProxyLogin.net",
       "url": "http://pool.proxylogin.net/trtl/",
       "api": "http://trtl.proxylogin.net:8117/",
