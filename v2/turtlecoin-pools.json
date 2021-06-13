@@ -10,6 +10,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "AzPool",
+      "url": "https://trtl.azpool.win/",
+      "api": "https://trtl-api.azpool.win/",
+      "type": "forknote",
+      "miningAddress": "trtl-miner.azpool.win",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "C3Pool",
       "url": "https://c3pool.com/",
       "api": "https://api.c3pool.com/",
